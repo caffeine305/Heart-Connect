@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Ruedín_lp.obj-4cdcdf84864fffc065eab5a82d1ce2ea.mesh"
+
+[deps]
+
+files=[ "res://.import/Ruedín_lp.obj-4cdcdf84864fffc065eab5a82d1ce2ea.mesh" ]
+
+source_file="res://Models/Ruedín_lp.obj"
+dest_files=[ "res://.import/Ruedín_lp.obj-4cdcdf84864fffc065eab5a82d1ce2ea.mesh", "res://.import/Ruedín_lp.obj-4cdcdf84864fffc065eab5a82d1ce2ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
