@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Ruedín_LowPoly.fbx-bf85b3c7118a160b3cf432e0785ab8af.scn"
+path="res://.import/Ruedin_LowPoly.fbx-a75bf337a16a135ca0b7fd0aa42da2ad.scn"
 
 [deps]
 
-source_file="res://Models/Ruedín_LowPoly.fbx"
-dest_files=[ "res://.import/Ruedín_LowPoly.fbx-bf85b3c7118a160b3cf432e0785ab8af.scn" ]
+source_file="res://Models/Ruedin_LowPoly.fbx"
+dest_files=[ "res://.import/Ruedin_LowPoly.fbx-a75bf337a16a135ca0b7fd0aa42da2ad.scn" ]
 
 [params]
 

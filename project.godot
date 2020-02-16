@@ -15,9 +15,14 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Heart-Connect"
-run/main_scene="res://Scenes/Rue-din.tscn"
+config/name="Heart_Connect"
+run/main_scene="res://Scenes/test.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=320
+window/size/height=240
 
 [rendering]
 
